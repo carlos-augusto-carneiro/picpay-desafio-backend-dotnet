@@ -1,0 +1,12 @@
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Domain\bin\Debug\net8.0\Picpay.Domain.deps.json
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Domain\bin\Debug\net8.0\Picpay.Domain.dll
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Domain\bin\Debug\net8.0\Picpay.Domain.pdb
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Domain\obj\Debug\net8.0\Picpay.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Domain\obj\Debug\net8.0\Picpay.Domain.AssemblyInfoInputs.cache
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Domain\obj\Debug\net8.0\Picpay.Domain.AssemblyInfo.cs
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Domain\obj\Debug\net8.0\Picpay.Domain.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Domain\obj\Debug\net8.0\Picpay.Domain.sourcelink.json
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Domain\obj\Debug\net8.0\Picpay.Domain.dll
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Domain\obj\Debug\net8.0\refint\Picpay.Domain.dll
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Domain\obj\Debug\net8.0\Picpay.Domain.pdb
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Domain\obj\Debug\net8.0\ref\Picpay.Domain.dll

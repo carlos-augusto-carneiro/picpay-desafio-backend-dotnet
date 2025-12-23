@@ -10,6 +10,7 @@ public class Transaction : BaseEntity
     public Guid ReceiverWalletId { get; private set; }
     public Wallet ReceiverWallet { get; private set; } = null!;
 
+    protected Transaction() { }
     public Transaction(decimal amount, Wallet senderWallet,  Wallet receiverWallet)
     {
         if (amount <= 0)

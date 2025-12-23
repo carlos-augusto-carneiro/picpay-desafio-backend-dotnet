@@ -1,0 +1,16 @@
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Application\bin\Debug\net8.0\Picpay.Application.deps.json
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Application\bin\Debug\net8.0\Picpay.Application.dll
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Application\bin\Debug\net8.0\Picpay.Application.pdb
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Application\bin\Debug\net8.0\Picpay.Domain.dll
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Application\bin\Debug\net8.0\Picpay.Domain.pdb
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Application\obj\Debug\net8.0\Picpay.Application.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Application\obj\Debug\net8.0\Picpay.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Application\obj\Debug\net8.0\Picpay.Application.AssemblyInfoInputs.cache
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Application\obj\Debug\net8.0\Picpay.Application.AssemblyInfo.cs
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Application\obj\Debug\net8.0\Picpay.Application.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Application\obj\Debug\net8.0\Picpay.Application.sourcelink.json
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Application\obj\Debug\net8.0\Picpay.A.82DE1E64.Up2Date
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Application\obj\Debug\net8.0\Picpay.Application.dll
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Application\obj\Debug\net8.0\refint\Picpay.Application.dll
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Application\obj\Debug\net8.0\Picpay.Application.pdb
+C:\Users\carlo\Documents\picpay-desafio-backend-dotnet\src\Picpay.Application\obj\Debug\net8.0\ref\Picpay.Application.dll

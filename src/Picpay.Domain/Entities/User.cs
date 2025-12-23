@@ -12,6 +12,7 @@ public class User : BaseEntity
     public UserType Type { get; private set; }
     public Wallet? Wallet { get; private set; }
 
+    protected User() { }
     public User(string name, string username, string document, string email, string password, UserType type)
     {
         Name = name;

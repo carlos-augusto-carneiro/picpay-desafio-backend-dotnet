@@ -1,6 +1,6 @@
 ﻿using Picpay.Domain.Entities;
 
-namespace Picpay.Domain;
+namespace Picpay.Domain.Entities;
 
 public class Wallet : BaseEntity
 {
@@ -12,6 +12,7 @@ public class Wallet : BaseEntity
     public ICollection<Transaction> SendTransactions { get; private set; }
     public ICollection<Transaction> ReceiveTransactions { get; private set; }
 
+    protected Wallet() { }
     public Wallet(Guid userId)
     {
         UserId = userId;
