@@ -1,4 +1,4 @@
-﻿namespace Picpay.Infra;
+﻿namespace Picpay.Infra.Repositories;
 
 using System;
 using System.Threading.Tasks;

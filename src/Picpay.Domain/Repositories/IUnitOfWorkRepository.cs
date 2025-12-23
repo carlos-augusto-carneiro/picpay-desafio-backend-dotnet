@@ -1,6 +1,7 @@
 ﻿namespace Picpay.Domain.Repositories;
 
-public interface IUnitOfWork
+public interface IUnitOfWorkRepository
 {
     Task CommitAsync(CancellationToken cancellationToken);
+
 }

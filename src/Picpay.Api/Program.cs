@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Picpay.Infra;
 using Picpay.Infra.Persistence.Context;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +13,7 @@ builder.Services.AddControllers();
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(connectionString));
 
+builder.Services.AddInfrastructure();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
