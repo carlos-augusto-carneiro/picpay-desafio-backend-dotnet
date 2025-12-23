@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Picpay.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1befef519713a4501622aeec237a108bd374f51b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6643159a8ed7a029d9c22f114cd3963968f1422")]
 [assembly: System.Reflection.AssemblyProductAttribute("Picpay.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Picpay.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

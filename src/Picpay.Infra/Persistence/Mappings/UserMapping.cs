@@ -36,7 +36,7 @@ public class UserMapping : IEntityTypeConfiguration<User>
             .IsRequired();
 
         builder.HasOne(u => u.Wallet)
-            .WithOne(w => w.user)
+            .WithOne(w => w.User)
             .HasForeignKey<Wallet>(w => w.UserId);
     }
 }

@@ -24,7 +24,7 @@ public class WalletMapping : IEntityTypeConfiguration<Wallet>
             .HasColumnName("UserId")
             .IsRequired();
 
-        builder.HasOne(w => w.user)
+        builder.HasOne(w => w.User)
             .WithOne(u => u.Wallet)
             .HasForeignKey<Wallet>(w => w.UserId)
             .OnDelete(DeleteBehavior.Cascade);

@@ -7,7 +7,7 @@ public class Wallet : BaseEntity
     public decimal Balance { get; private set; }
 
     public Guid UserId { get; private set; }
-    public User user { get; private set; } = null!;
+    public User User { get; private set; } = null!;
 
     public ICollection<Transaction> SendTransactions { get; private set; }
     public ICollection<Transaction> ReceiveTransactions { get; private set; }
